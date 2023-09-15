@@ -14,7 +14,8 @@ dev_dependencies:
   flutter_test:
     sdk: flutter
   flutter_lints: ^2.0.0
-  provider:
+  provider: 
+  fl_chart:
 
 flutter:
   uses-material-design: true
